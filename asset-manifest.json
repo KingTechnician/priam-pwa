@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c08d3b0.css",
-    "main.js": "/static/js/main.1246babb.js",
+    "main.css": "/static/css/main.81cdedb5.css",
+    "main.js": "/static/js/main.8ae91002.js",
     "static/js/787.37a5b9d1.chunk.js": "/static/js/787.37a5b9d1.chunk.js",
     "static/media/VirginiaStateUniversity.jpg": "/static/media/VirginiaStateUniversity.532aa8e53159d891505c.jpg",
     "service-worker.js": "/service-worker.js",
     "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/index.html",
-    "main.4c08d3b0.css.map": "/static/css/main.4c08d3b0.css.map",
-    "main.1246babb.js.map": "/static/js/main.1246babb.js.map",
+    "main.81cdedb5.css.map": "/static/css/main.81cdedb5.css.map",
+    "main.8ae91002.js.map": "/static/js/main.8ae91002.js.map",
     "787.37a5b9d1.chunk.js.map": "/static/js/787.37a5b9d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c08d3b0.css",
-    "static/js/main.1246babb.js"
+    "static/css/main.81cdedb5.css",
+    "static/js/main.8ae91002.js"
   ]
 }

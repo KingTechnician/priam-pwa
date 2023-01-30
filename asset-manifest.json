@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.81cdedb5.css",
-    "main.js": "/static/js/main.8ae91002.js",
-    "static/js/787.37a5b9d1.chunk.js": "/static/js/787.37a5b9d1.chunk.js",
+    "main.css": "/static/css/main.6dc1a72f.css",
+    "main.js": "/static/js/main.3bb96b25.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/VirginiaStateUniversity.jpg": "/static/media/VirginiaStateUniversity.532aa8e53159d891505c.jpg",
     "service-worker.js": "/service-worker.js",
     "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/index.html",
-    "main.81cdedb5.css.map": "/static/css/main.81cdedb5.css.map",
-    "main.8ae91002.js.map": "/static/js/main.8ae91002.js.map",
-    "787.37a5b9d1.chunk.js.map": "/static/js/787.37a5b9d1.chunk.js.map"
+    "main.6dc1a72f.css.map": "/static/css/main.6dc1a72f.css.map",
+    "main.3bb96b25.js.map": "/static/js/main.3bb96b25.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81cdedb5.css",
-    "static/js/main.8ae91002.js"
+    "static/css/main.6dc1a72f.css",
+    "static/js/main.3bb96b25.js"
   ]
 }

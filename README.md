@@ -14,3 +14,15 @@ This also comes with a new, sleek React user interface to bring a more mobile ex
 
 Ideally, this would be called "Priam 2.0", but research and testing is still being done to determine if this indeed can serve as the next generation of the Priam application.
 
+## Display (Subject to change as more features are added)
+
+
+
+
+
+https://user-images.githubusercontent.com/104329626/215656928-63326f9a-5e39-42f4-a293-9786f434f7ee.mp4
+
+
+https://user-images.githubusercontent.com/104329626/215656564-2b8a2a61-ad1c-47f0-95e9-f2b31a327229.mp4
+
+

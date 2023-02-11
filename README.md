@@ -30,11 +30,15 @@ https://user-images.githubusercontent.com/104329626/215656564-2b8a2a61-ad1c-47f0
 - [x] User has the ability to login using VSU email
 - [x] Only VSU emails are allowed to validate and pass login
 - [x] Profile username is recognized by the application
-- [x] User can query server posts
+- [ ] User can query server posts
   - [x] By Title
-  - [ ] By Description
+  - [x] By Description
   - [ ] By Date
-  - [ ] By Tag
+  - [ ] By Tags
+- [ ] User can filter server posts
+  - [x] By Date
+  - [x] By Upvotes
+  - [ ] By Tags
 - [ ] User can create a post with a Title and Description
 - [ ] User can add tags to created posts
 - [ ] Users are able to upvote desired posts, which are also stored in a serer

@@ -19,11 +19,17 @@ Ideally, this would be called "Priam 2.0", but research and testing is still bei
 
 
 
+https://user-images.githubusercontent.com/104329626/220188611-f996da6a-0487-4e5f-a8f7-acf8fdd0079d.mp4
 
-https://user-images.githubusercontent.com/104329626/215656928-63326f9a-5e39-42f4-a293-9786f434f7ee.mp4
 
 
-https://user-images.githubusercontent.com/104329626/215656564-2b8a2a61-ad1c-47f0-95e9-f2b31a327229.mp4
+
+
+https://user-images.githubusercontent.com/104329626/220188647-23c85129-755e-42b7-b51a-e2f6c3dabcb2.mp4
+
+
+
+
 
 ## Steps to a 1.0.0 Production
 
@@ -33,12 +39,11 @@ https://user-images.githubusercontent.com/104329626/215656564-2b8a2a61-ad1c-47f0
 - [ ] User can query server posts
   - [x] By Title
   - [x] By Description
-  - [ ] By Date
-  - [ ] By Tags
-- [ ] User can filter server posts
+  - [x] By Tags
+- [x] User can filter server posts
   - [x] By Date
   - [x] By Upvotes
-  - [ ] By Tags
+  - [x] By Tags
 - [ ] User can create a post with a Title and Description
 - [ ] User can add tags to created posts
-- [ ] Users are able to upvote desired posts, which are also stored in a serer
+- [ ] Users are able to upvote desired posts, which are also stored in a server

@@ -1,8 +1,8 @@
 # Priam PWA
 
-## Purpose
+## Purpose (**NOTE: Check out the [Priam](https://www.github.com/kingtechnician/priam) application README before reading this.**)
 
-- NOTE: Check out the [Priam](https://www.github.com/kingtechnician/priam) application README before reading this.
+
 
 As of now, there is a totally working Flask application I created that will work on the web.
 

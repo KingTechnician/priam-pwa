@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/104329626/220188647-23c85129-755e-42b7
 - [x] User has the ability to login using VSU email
 - [x] Only VSU emails are allowed to validate and pass login
 - [x] Profile username is recognized by the application
-- [ ] User can query server posts
+- [x] User can query server posts
   - [x] By Title
   - [x] By Description
   - [x] By Tags

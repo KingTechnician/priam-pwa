@@ -46,4 +46,4 @@ https://user-images.githubusercontent.com/104329626/220188647-23c85129-755e-42b7
   - [x] By Tags
 - [ ] User can create a post with a Title and Description
 - [ ] User can add tags to created posts
-- [ ] Users are able to upvote desired posts, which are also stored in a server
+- [x] Users are able to upvote desired posts, which are also stored in a server

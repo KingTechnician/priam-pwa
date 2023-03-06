@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.a271274e.css",
-    "main.js": "/static/js/main.071f8a2d.js",
+    "main.js": "/static/js/main.bb5091c5.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/VirginiaStateUniversity.jpg": "/static/media/VirginiaStateUniversity.532aa8e53159d891505c.jpg",
     "service-worker.js": "/service-worker.js",
     "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/index.html",
     "main.a271274e.css.map": "/static/css/main.a271274e.css.map",
-    "main.071f8a2d.js.map": "/static/js/main.071f8a2d.js.map",
+    "main.bb5091c5.js.map": "/static/js/main.bb5091c5.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a271274e.css",
-    "static/js/main.071f8a2d.js"
+    "static/js/main.bb5091c5.js"
   ]
 }

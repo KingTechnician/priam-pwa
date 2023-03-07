@@ -17,15 +17,18 @@ Ideally, this would be called "Priam 2.0", but research and testing is still bei
 ## Display (Subject to change as more features are added)
 
 
-
-
-https://user-images.githubusercontent.com/104329626/220188611-f996da6a-0487-4e5f-a8f7-acf8fdd0079d.mp4
-
+https://user-images.githubusercontent.com/104329626/223510564-9edf7d7e-4198-4b42-828e-be889891e97b.mp4
 
 
 
 
-https://user-images.githubusercontent.com/104329626/220188647-23c85129-755e-42b7-b51a-e2f6c3dabcb2.mp4
+
+
+
+https://user-images.githubusercontent.com/104329626/223513689-89c3fa35-3ee7-4f16-815a-121a1c623c47.mp4
+
+
+
 
 
 

@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/104329626/220188647-23c85129-755e-42b7
 
 
 
-## Steps to a 1.0.0 Production
+## Steps to a 1.0.0 Production (Complete!)
 
 - [x] User has the ability to login using VSU email
 - [x] Only VSU emails are allowed to validate and pass login
@@ -44,6 +44,12 @@ https://user-images.githubusercontent.com/104329626/220188647-23c85129-755e-42b7
   - [x] By Date
   - [x] By Upvotes
   - [x] By Tags
-- [ ] User can create a post with a Title and Description
-- [ ] User can add tags to created posts
+- [x] User can create a post with a Title and Description
+- [x] User can add tags to created posts
 - [x] Users are able to upvote desired posts, which are also stored in a server
+
+## Current Stage: Ensuring Security
+- [x] Keeping important values in-memory and inaccessible via browser
+- [ ] Validating people accessing the AWS Lambda Functions through Auth0 tokens
+- [ ] MFA
+- [ ] Ensuring CORS policy for AWS Lambda Functions

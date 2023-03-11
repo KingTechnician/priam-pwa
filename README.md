@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/104329626/223513689-89c3fa35-3ee7-4f16
 - [x] User can add tags to created posts
 - [x] Users are able to upvote desired posts, which are also stored in a server
 
-## Current Stage: Ensuring Security
+## Ensuring Security (Complete!)
 - [x] Keeping important values in-memory and inaccessible via browser
 - [x] Validating people accessing the AWS Lambda Functions through Auth0 tokens
 - [x] MFA

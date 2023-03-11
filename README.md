@@ -55,4 +55,4 @@ https://user-images.githubusercontent.com/104329626/223513689-89c3fa35-3ee7-4f16
 - [x] Keeping important values in-memory and inaccessible via browser
 - [x] Validating people accessing the AWS Lambda Functions through Auth0 tokens
 - [x] MFA
-- [ ] Ensuring CORS policy for AWS Lambda Functions
+- [x] Ensuring CORS policy for AWS Lambda Functions

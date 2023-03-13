@@ -1,6 +1,6 @@
 # Priam PWA
 
-## Purpose (**NOTE: Check out the [Priam](https://www.github.com/kingtechnician/priam) application README before reading this.**)
+## Purpose (**NOTE: Check out the [Priam](https://www.github.com/kingtechnician/priam_lite) application README before reading this.**)
 
 
 
